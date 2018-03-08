@@ -1,4 +1,4 @@
-# End-to end TodoMVC Demo with PostgreSQL, .NET Core and Angular
+# End-to-end TodoMVC Demo with PostgreSQL, .NET Core and Angular
 This is an original TodoMVC demo (http://todomvc.com) adopted to PostgreSQL + .NET Core with EF/ASP.NET MVC as a backend.
 
 The demo is based on the default ASP.NET Core + Angular project template in Visual Studio 2017. It supports simultaneous backend and frontend debugging.
